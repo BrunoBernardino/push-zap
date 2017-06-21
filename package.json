@@ -1,0 +1,30 @@
+{
+  "name": "push-zap",
+  "version": "1.0.0",
+  "description": "Trigger a Zap from the command line.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "bin": {
+    "push-zap": "./index.js"
+  },
+  "keywords": [
+    "zapier",
+    "zap",
+    "push",
+    "cli",
+    "terminal",
+    "command"
+  ],
+  "author": "Bruno Bernardino <me@brunobernardino.com>",
+  "license": "ISC",
+  "engines": {
+    "node": ">=4.2.0"
+  },
+  "dependencies": {
+    "got": "^7.0.0",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1"
+  }
+}
