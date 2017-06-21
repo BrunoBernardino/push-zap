@@ -6,7 +6,7 @@ This provides similar data to the input from Push by Zapier and you just need to
 
 To "install":
 
-Locally, after pulling, `npm link`, otherwise `npm install -g push-zap`
+`npm install -g push-zap`, or if you're developing locally, `npm link`.
 
 To learn more about it:
 
