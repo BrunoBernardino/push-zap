@@ -2,7 +2,10 @@
   "name": "push-zap",
   "version": "1.0.0",
   "description": "Trigger a Zap from the command line.",
-  "repository": "https://github.com/BrunoBernardino/push-zap",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrunoBernardino/push-zap",
+  },
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
