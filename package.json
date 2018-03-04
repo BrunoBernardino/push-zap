@@ -4,7 +4,7 @@
   "description": "Trigger a Zap from the command line.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BrunoBernardino/push-zap",
+    "url": "https://github.com/BrunoBernardino/push-zap"
   },
   "main": "index.js",
   "scripts": {
